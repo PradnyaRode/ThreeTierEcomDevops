@@ -1,4 +1,4 @@
-### 3-Tier-Ecom-Devops-App
+# 3-Tier-Ecom-Devops-App
 
 ## AWS EC2 Instance
 
